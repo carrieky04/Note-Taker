@@ -1,12 +1,12 @@
 [
     {
-        "title": "Delete a note",
-        "text": "figure out how to delete a note\n",
-        "id": "0e6a"
+        "title": "Deploy",
+        "text": "to Heroku",
+        "id": "30ad"
     },
     {
-        "title": "Heroku",
-        "text": "deploy to heroku\n",
-        "id": "32a3"
+        "title": "README",
+        "text": "write a readme file",
+        "id": "57a8"
     }
 ]
