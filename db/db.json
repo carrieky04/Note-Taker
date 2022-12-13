@@ -1,14 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "title": "Delete a note",
+        "text": "figure out how to delete a note\n",
+        "id": "0e6a"
     },
     {
-        "note_id": "db88"
-    },
-    {
-        "title": "Sleep",
-        "text": "sleep now",
-        "note_id": "8004"
+        "title": "Heroku",
+        "text": "deploy to heroku\n",
+        "id": "32a3"
     }
 ]

@@ -10,7 +10,9 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use('/api', api);
 
+// Middleware for parsing JSON and urlencoded form data
 app.use(express.static('public'));
+
 
 // get requests for front end routes
 app.get("/notes", (req, res) =>
@@ -21,16 +23,10 @@ app.get("/", (req, res) =>
   res.sendFile(path.join(__dirname, "/public/index.html"))
 );
 
+// Wildcard route to direct users to a home page
 app.get("*", (req, res) =>
   res.sendFile(path.join(__dirname, "./public/index.html"))
 );
-
-
-
-
-
-
-
 
 
 app.listen(PORT, () =>
