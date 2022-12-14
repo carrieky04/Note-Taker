@@ -43,7 +43,7 @@ npm install express --save
 
 You can find this application deployed on Heroku:
 
-[Heroku](https://www.awesomescreenshot.com/video/13083114?key=0c999adf3fd693843e058aebdabdc492)
+[Heroku](https://carrieky-note-taker.herokuapp.com/)
 
 To run this application, you will need to start the server by using this command in your CLI:
 
