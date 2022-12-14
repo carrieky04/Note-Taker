@@ -1,4 +1,5 @@
 # Note-Taker
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
@@ -12,7 +13,9 @@ that need to be completed
 - [Usage](#usage)
 - [Tests](#tests)
 - [Credits](#credits)
+- [Questions](#questions)
 - [License](#license)
+
 
 ## Installation
 
@@ -51,6 +54,10 @@ To run this application, you will need to start the server by using this command
 node server.js
 ```
 
+![Homepage](./public/assets/images/Homepage.png)
+
+![Notepage](./public/assets/images/Notepage.png)
+
 ## Tests
 
 If you would like to run tests, it is suggested that you download and run Insomnia.rest.
@@ -60,6 +67,12 @@ If you would like to run tests, it is suggested that you download and run Insomn
 ## Credits
 
 Shoutout to Nick Gambino, our TA, for helping me to better under standing routes and modular routing!
+
+## Questions
+
+[Github](https://github.com/carrieky04)
+
+[Contact](mailto:carrieky04@gmail.com)
 
 ## License
 
